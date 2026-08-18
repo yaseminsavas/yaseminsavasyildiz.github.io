@@ -9,10 +9,10 @@ redirect_from:
 
 ## About
 
-I am a PhD Candidate in Sociology at Princeton University. I am advised by Filiz Garip, Benjamin Bradlow, and Viviana Zelizer. My research examines how climate and environmental change shape migration, household decision-making, and inequality, with a focus on the Global South. I primarily employ quantitative and computational social science methods.
+I am a PhD Candidate in Sociology at Princeton University. I am advised by Filiz Garip, Benjamin Bradlow, and Viviana Zelizer. My research examines how climate and environmental change shape migration, household decision-making, urbanization, and inequality, with a focus on the Global South. I primarily employ quantitative and computational social science methods.
 
 ## Education
 
 * M.A. Sociology (2025), *Princeton University*
-* B.A. Industrial Engineering (2020), *Koc University*
+* B.Sc. Industrial Engineering (2020), *Koc University*
 * B.A. Sociology (2020), *Koc University*
